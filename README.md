@@ -16,4 +16,4 @@ Using a token for app utility offers many benefits, and choosing Hoge gives deve
 
 Some tokens are meant to be used for a specific purpose, locking developers into an ecosystem.  The value of these tokens is usually speculative, changing with the markets perception of the singular use-case or ecosystem.
 
-Others are [securities](https://www.investopedia.com/terms/h/howey-test.asp#:~:text=The%20Howey%20Test%20refers%20to,Securities%20Exchange%20Act%20of%201934), issued by organizations to investors as a way to share in the success of the enterprise.  These are "equity" tokens.  Securities law applies to these, making use by a developer 
+Others are [securities](https://www.investopedia.com/terms/h/howey-test.asp#:~:text=The%20Howey%20Test%20refers%20to,Securities%20Exchange%20Act%20of%201934), issued by organizations to investors as a way to share in the success of the enterprise.  These are "equity" tokens.  Securities law applies to these, making use by a developer more difficult since compliance (in most countries) with security law is mandatory.  Any legal issues with the organization can affect app developers through no fault of their own.
