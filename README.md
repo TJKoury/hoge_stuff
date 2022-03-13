@@ -4,12 +4,13 @@ There are many ways to develop decentralized apps in the current Ethereum ecosys
 
 Using a token for app utility offers many benefits, and choosing Hoge gives developers some unique advantages.
  
-## Benefits of using a token for development
-- Add cryptographically secure utility for user management
+## A few benefits of using a token for app development
+
+- Add cryptographically secure app utility without a centralized database to track keys / addresses
 - Allows an app to identify/interact with user accounts without needing personal information
 - Enable app features for users holding a certain amount of a token, or for a certain amount of time
 - Track interactions with other addresses / smart contracts, create innate relational data models
-- 
+- Use tokens as in-app rewards / payment
 
 ## Token Economics: Utility vs. Equity
 
