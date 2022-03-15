@@ -18,11 +18,15 @@ Some tokens are meant to be used for a specific purpose.  The value of these tok
 
 Others are [securities](https://www.investopedia.com/terms/h/howey-test.asp#:~:text=The%20Howey%20Test%20refers%20to,Securities%20Exchange%20Act%20of%201934), issued by companies to investors as a way to share in the success of the enterprise.  These are "equity" tokens.  The benefit of equity tokens lies in their value going up due to efforts of the company.  Investment is made based on the company's potential, and success yields profit.
 
-## Tokenomics: Paying for a service vs. shared ownership
+## Tokenomics: Paying for a service vs. service granted by asset ownership
 
 Traditionally, apps are fee-for-use: a user pays a fee for access to features, whether up-front or by giving their attention to a third-party (in the case of advertiser-supported apps).
 
-A new emerging model is allowing access to features through ownership
+Another way of allowing access is through owership of digital assets (like NFTs) associated with a crypto address.  This model is gaining popularity for a few reasons:
+
+- No recurring costs
+- Users do not have to give up anything to gain access
+- App developers do not need to build enegagement /billing systems 
 
 
 ## Why use Hoge
