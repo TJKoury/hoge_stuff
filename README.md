@@ -12,8 +12,26 @@ Using a token for app utility offers many benefits, and choosing Hoge gives deve
 - Track interactions with other addresses / smart contracts, create innate relational data models
 - Use tokens as in-app rewards / payment
 
-## Token Economics: Utility vs. Equity
+## Token Types: Utility vs. Equity
 
-Some tokens are meant to be used for a specific purpose, locking developers into an ecosystem.  The value of these tokens is usually speculative, changing with the markets perception of the singular use-case or ecosystem.
+Some tokens are meant to be used for a specific purpose.  The value of these tokens is speculative, changing with the markets perception of their use-case.  Usually these tokens are associated with a single app or type of functionality (like advertisement or gaming).
 
-Others are [securities](https://www.investopedia.com/terms/h/howey-test.asp#:~:text=The%20Howey%20Test%20refers%20to,Securities%20Exchange%20Act%20of%201934), issued by organizations to investors as a way to share in the success of the enterprise.  These are "equity" tokens.  Securities law applies to these, making use by a developer more difficult since compliance (in most countries) with security law is mandatory.  Any legal issues with the organization can affect app developers through no fault of their own.
+Others are [securities](https://www.investopedia.com/terms/h/howey-test.asp#:~:text=The%20Howey%20Test%20refers%20to,Securities%20Exchange%20Act%20of%201934), issued by companies to investors as a way to share in the success of the enterprise.  These are "equity" tokens.  The benefit of equity tokens lies in their value going up due to efforts of the company.  Investment is made based on the company's potential, and success yields profit.
+
+## Tokenomics: Paying for a service vs. shared ownership
+
+Traditionally, apps are fee-for-use: a user pays a fee for access to features, whether up-front or by giving their attention to a third-party (in the case of advertiser-supported apps).
+
+
+## Why use Hoge
+
+Both Utility and Equity tokens can be useful, but have drawbacks:
+
+1. Are heavily reliant on a third-party
+2. Can change arbitrarily
+3. Lock developers into an ecosystem / specific use-case
+4. No control over issuance
+
+Hoge is a meme-token, and is deflationary by using a burn / reflection mechanism.  
+
+It is an open-source brand, and has no default use-case or ecosystem.
