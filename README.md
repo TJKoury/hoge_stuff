@@ -22,6 +22,8 @@ Others are [securities](https://www.investopedia.com/terms/h/howey-test.asp#:~:t
 
 Traditionally, apps are fee-for-use: a user pays a fee for access to features, whether up-front or by giving their attention to a third-party (in the case of advertiser-supported apps).
 
+A new emerging model is allowing access to features through ownership
+
 
 ## Why use Hoge
 
