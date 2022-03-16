@@ -1,4 +1,4 @@
-# Why Develop With Hoge?
+# Develop With Hoge
 
 There are many ways to develop decentralized apps in the current Ethereum ecosystem.  
 
